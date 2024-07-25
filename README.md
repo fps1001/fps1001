@@ -11,9 +11,9 @@
 
 ## Proyecto Destacado
 
-### [Smart City Operator for the Mobility Department of Salamanca, Spain](https://github.com/fps1001/TFGII_FPisot)
+### [Creador de rutas turísticas con OSM y LLM para desarrollo de ODS11](https://github.com/fps1001/TFGII_FPisot)
 
-Este es mi Trabajo de Fin de Grado (TFG), donde estoy desarrollando una aplicación móvil con Flutter para el departamento de movilidad de Salamanca. La aplicación tiene como objetivo mejorar la gestión y operación de la movilidad urbana, ofreciendo una solución inteligente y eficiente.
+Este es mi Trabajo de Fin de Grado (TFG), donde estoy desarrollando una aplicación móvil con Flutter capaz de generar rutas turísticas sostenibles usando OSM y LLM para desarrollo de ODS11.
 
 ## Habilidades
 
